@@ -13,7 +13,7 @@ Ingeniero en Sistemas , Docente y Emprendedor apasionado por la tecnología, el 
 
 
 ## 🛠 Skills
-HTML 5, CSS3 , PHP , Javascript , Figma, Adobe Xd , Ilustrator , Photoshop , Adobe Animate, Adobe Premier, Adobe Audition.
+HTML 5, CSS3 , PHP , Laravel, Javascript , Vue, Figma, Adobe Xd , Ilustrator , Photoshop , Adobe Animate, Adobe Premier, Adobe Audition.
 
 
 ## 🔗 Links
